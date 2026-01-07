@@ -1,0 +1,43 @@
+# ===== LaTeX build files =====
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+*.nav
+*.snm
+*.vrb
+
+# ===== Intermediate / temp =====
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
+
+# ===== Latexmk =====
+.latexmkrc
+latexmk.out
+
+# ===== PDF output  =====
+*.pdf
+
+# ===== Editor files =====
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+
