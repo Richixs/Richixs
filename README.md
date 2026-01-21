@@ -4,7 +4,7 @@
 ### About me
 
 <p>
-	<a href="https://www.richixs.dev" target="_blank" rel="noopener noreferrer"><img src="./assets/developer.gif" alt="Coding gif" width="380" align="right" /></a>
+	<a href="https://www.richixs.dev" target="_blank" rel="noopener noreferrer"><img src="./assets/developer.gif" alt="Coding gif" width="340" align="right" /></a>
   I am a Computer Science student at UMSS and a Full‑Stack & Mobile Developer. I enjoy turning ideas into production-ready products through rapid prototyping, open source, and collaboration at hackathons and game jams. I am also a volunteer firefighter and I aim to apply technology to create positive community impact.
 </p>
 
