@@ -14,34 +14,28 @@
 
 ### Tech stack
 
-**Frontend**
-<p align="center">
-	<img src="https://skillicons.dev/icons?i=ts,js,react,vue,angular,nextjs,vite,astro,html,css,tailwind,figma&perline=14" alt="Frontend stack"/>
-</p>
-
-**Mobile**
-<p align="center">
-	<img src="https://skillicons.dev/icons?i=kotlin,swift,androidstudio&perline=14" alt="Mobile stack"/>
-</p>
-
-**Backend**
 <p align="center">
 	<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,django,python,spring,laravel,graphql,postgres,mysql,mongodb,redis&perline=14" alt="Backend stack"/>
 </p>
 
-**DevOps**
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,androidstudio,linux,arch,debian,bash,postman,bots,latex&perline=14" alt="Tools stack"/>
+</p>
+
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=ts,js,react,vue,angular,vite,astro,html,css,tailwind,figma&perline=14" alt="Frontend stack"/>
+</p>
+
 <p align="center">
 	<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,cloudflare,nginx&perline=14" alt="DevOps stack"/>
 </p>
 
-**Extras / Misc**
 <p align="center">
 	<img src="https://skillicons.dev/icons?i=godot,blender,discordjs,opencv,raspberrypi,r&perline=14" alt="Extras/Misc stack"/>
 </p>
 
-**Tools**
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,androidstudio,linux,arch,debian,bash,postman,bots,latex&perline=14" alt="Tools stack"/>
+	<img src="https://skillicons.dev/icons?i=kotlin,swift,androidstudio&perline=14" alt="Mobile stack"/>
 </p>
 
 ### Contact
