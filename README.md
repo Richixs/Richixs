@@ -39,10 +39,6 @@
 	<img src="https://skillicons.dev/icons?i=apple&perline=14" alt="Apple"/>
 </p>
 
-<p align="center">
-	<a href="https://www.richixs.dev"><img src="https://readme-typing-svg.demolab.com?font=Bungee&size=75&pause=1000&color=7D00F7&center=true&vCenter=true&width=900&height=120&lines=Visit+my+website!!!;www.richixs.dev" alt="Typing SVG" /></a>
-</p>
-
 ### Contact
 
 - ✉️ Mail: <a href="mailto:ricardo@richixs.dev">ricardo@richixs.dev</a>
