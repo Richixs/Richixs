@@ -3,24 +3,13 @@
 
 ### About me
 
-<table border="0" cellpadding="0" cellspacing="0">
-	<tr>
-		<td width="58%" valign="top">
-				<p>
-					I am a Computer Science student at UMSS and a Full‑Stack & Mobile Developer. I enjoy
-					turning ideas into production-ready products through rapid prototyping, open source,
-					and collaboration at hackathons and game jams. I am also a volunteer firefighter and
-					I aim to apply technology to create positive community impact.
-				</p>
-		</td>
-		<td width="42%" align="center">
-			<img src="./assets/developer.gif" alt="Coding gif" width="280" />
-		</td>
-	</tr>
-</table>
+<p>
+  <img src="./assets/developer.gif" alt="Coding gif" width="280" align="right" />
+  I am a Computer Science student at UMSS and a Full‑Stack & Mobile Developer. I enjoy turning ideas into production-ready products through rapid prototyping, open source, and collaboration at hackathons and game jams. I am also a volunteer firefighter and I aim to apply technology to create positive community impact.
+</p>
 
 <p align="center">
-	<a href="https://www.richixs.dev"><img src="https://readme-typing-svg.demolab.com?font=Bungee&size=70&pause=1000&color=7D00F7&center=true&vCenter=true&width=800&height=200&lines=Visit+my+website!!!;www.richixs.dev" alt="Typing SVG" /></a>
+	<a href="https://www.richixs.dev"><img src="https://readme-typing-svg.demolab.com?font=Bungee&size=75&pause=1000&color=7D00F7&center=true&vCenter=true&width=900&height=120&lines=Visit+my+website!!!;www.richixs.dev" alt="Typing SVG" /></a>
 </p>
 
 ### Tech stack
