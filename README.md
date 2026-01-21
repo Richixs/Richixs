@@ -16,6 +16,6 @@
 - 🎮 Twitch: <a href="https://www.twitch.tv/rcrichixs" target="_blank" rel="noopener noreferrer">rcrichixs</a>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=Richixs&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Richixs's Stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richixs&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Richixs's Top Languages" />
+	<img src="https://github-readme-stats.vercel.app/api?username=Richixs&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Richixs's Stats" height="160" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richixs&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Richixs's Top Languages" height="160" />
 </p>
