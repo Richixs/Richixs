@@ -1,7 +1,3 @@
-<p align="center">
-	<a href="https://www.richixs.dev"><img src="https://readme-typing-svg.demolab.com?font=Bungee&size=75&pause=1000&color=7D00F7&center=true&vCenter=true&width=900&height=120&lines=Visit+my+website!!!;www.richixs.dev" alt="Typing SVG" /></a>
-</p>
-
 # <p align="center"><img src="./assets/hi.gif" width="38" alt="hi" /> Hi, I'm Ricardo Ramirez (Richixs) 🐧</p>
 ### <p align="center">Fullstack & Mobile Developer · Build, Ship, Learn, Repeat</p>
 
@@ -46,3 +42,7 @@
 - 📸 Instagram: [@cricky598](https://www.instagram.com/cricky598)
 - 🎥 YouTube: [RCRicky598](https://www.youtube.com/@ricky598)
 - 🎮 Twitch: [rcrichixs](https://www.twitch.tv/rcrichixs)
+
+<p align="center">
+	<a href="https://www.richixs.dev"><img src="https://readme-typing-svg.demolab.com?font=Bungee&size=75&pause=1000&color=7D00F7&center=true&vCenter=true&width=900&height=120&lines=Visit+my+website!!!;www.richixs.dev" alt="Typing SVG" /></a>
+</p>
