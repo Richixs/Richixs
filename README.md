@@ -3,7 +3,7 @@
 
 ### About me
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
 	<tr>
 		<td width="58%" valign="top">
 				<p>
@@ -19,13 +19,9 @@
 	</tr>
 </table>
 
----
-
 <p align="center">
 	<a href="https://www.richixs.dev"><img src="https://readme-typing-svg.demolab.com?font=Bungee&size=70&pause=1000&color=7D00F7&center=true&vCenter=true&width=800&height=200&lines=Visit+my+website!!!;www.richixs.dev" alt="Typing SVG" /></a>
 </p>
-
----
 
 ### Tech stack
 
@@ -58,8 +54,6 @@
 <p align="center">
 	<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,androidstudio,linux,arch,debian,bash,postman,bots,latex&perline=14" alt="Tools stack"/>
 </p>
-
----
 
 ### Contact
 
