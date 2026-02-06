@@ -17,6 +17,5 @@
 - 📸 Instagram: <a href="https://www.instagram.com/cricky598" target="_blank" rel="noopener noreferrer">@cricky598</a>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=Richixs&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Richixs's Stats" height="160" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richixs&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Richixs's Top Languages" height="160" />
+	[![My GitHub Game](game.gif)](https://www.richixs.dev)
 </p>
