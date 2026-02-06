@@ -17,5 +17,5 @@
 - 📸 Instagram: <a href="https://www.instagram.com/cricky598" target="_blank" rel="noopener noreferrer">@cricky598</a>
 
 <p align="center">
-	[![My GitHub Game](game.gif)](https://www.richixs.dev)
+	<a href="https://www.richixs.dev" target="_blank" rel="noopener noreferrer"><img src="./assets/game.gif" alt="My GitHub Game" /></a>
 </p>
