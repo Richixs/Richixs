@@ -12,7 +12,7 @@
 
 - ✉️ Email: <a href="mailto:ricardo@richixs.dev" target="_blank" rel="noopener noreferrer">ricardo@richixs.dev</a>
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/richixs" target="_blank" rel="noopener noreferrer">richixs</a>
-- 🎥 YouTube: <a href="https://www.youtube.com/@ricky598" target="_blank" rel="noopener noreferrer">RCRicky598</a>
+- 🎥 YouTube: <a href="https://www.youtube.com/@richixs-dev" target="_blank" rel="noopener noreferrer">Richixs</a>
 - 🎮 Twitch: <a href="https://www.twitch.tv/rcrichixs" target="_blank" rel="noopener noreferrer">rcrichixs</a>
 - 📸 Instagram: <a href="https://www.instagram.com/cricky598" target="_blank" rel="noopener noreferrer">@cricky598</a>
 
